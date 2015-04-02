@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         My Fancy New Userscript
+// @name         DAMのJSリンク改善
 // @namespace    http://your.homepage/
 // @version      0.1
 // @description  enter something useful
