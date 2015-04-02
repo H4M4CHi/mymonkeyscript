@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         DAMのJSリンク改善
 // @namespace    http://your.homepage/
-// @version      0.1
-// @description  enter something useful
+// @version      1.0
+// @description  DAMのJavascriptによるリンクを通常のリンクに変更するスクリプト
 // @author       You
 // @match        http://www.clubdam.com/*
 // @grant        none
