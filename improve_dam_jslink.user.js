@@ -3,7 +3,7 @@
 // @namespace    http://your.homepage/
 // @version      1.0
 // @description  DAMのJavascriptによるリンクを通常のリンクに変更するスクリプト
-// @author       You
+// @author       Hamada Yuma
 // @match        http://www.clubdam.com/*
 // @grant        none
 
